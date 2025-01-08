@@ -1,3 +1,18 @@
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- REACT + VITE
+- Git e Github
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://lexfernandes.github.io/Secret-Word/).
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
