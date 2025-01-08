@@ -1,0 +1,17 @@
+html,
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 40%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  height: 100vh;
+  font-family: JetBrains Mono, "Helvetica";
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.8;
+}
